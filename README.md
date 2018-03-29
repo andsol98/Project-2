@@ -1,6 +1,6 @@
 # Project-2 Description 
 
-Data Science Bot
+                                                      Data Science Bot
 
 This bot is designed to help the user analyze the 6,466 different posts provided to us on reddit. It starts off by asking the
 
