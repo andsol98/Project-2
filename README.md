@@ -18,4 +18,9 @@ the number of comments on that post and the score it recieved. If no, then the b
 
 and simply thank the user for their time. Most importanly, the bot will continue to provide information as long as the user 
 
+wishes to analyze the posts to his/her satisfaction. the number of comments on that post and the score it recieved. If no, then the bot will simply terminate its function 
+
+and simply thank the user for their time. Most importanly, the bot will continue to provide information as long as the user 
+
 wishes to analyze the posts to his/her satisfaction. 
+
