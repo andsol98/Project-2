@@ -2,7 +2,7 @@
 
 Data Science Bot
 
-This bot is designed to help the user analyze the 6,466 different posts provided to us on reddit. It starts off by asking the 
+This bot is designed to help the user analyze the 6,466 different posts provided to us on reddit. It starts off by asking the
 
 user to enter a word or a phrase as an input, so that it can find all the posts with the related keywords and display the 
 
